@@ -6,4 +6,4 @@ This project contains the code for root cause localization using MicroDig on dat
 
 #### Usage
 
-`python main.py`
+`python ./locator/code/main.py`
